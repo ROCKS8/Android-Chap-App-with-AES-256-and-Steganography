@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793993596031",
+    "firebase_url": "https://crypt-chat-727898-default-rtdb.firebaseio.com",
+    "project_id": "crypt-chat-727898",
+    "storage_bucket": "crypt-chat-727898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793993596031:android:edbfb5b904b869223fc34a",
+        "android_client_info": {
+          "package_name": "com.example.cryptchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793993596031-7ihoe3gsioo3dkldhj3ts40lmit769ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAVSfk5bMJRjXGYgdg95MIHadHvQXIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793993596031-7ihoe3gsioo3dkldhj3ts40lmit769ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crypt Chat</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
